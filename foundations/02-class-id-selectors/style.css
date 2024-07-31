@@ -1,0 +1,8 @@
+.odd {
+    background-color: salmon;
+    /* instructions state to make a list containing these font families. Not sure
+    if verdana and dejavu are supposed to work together or if dejavu and sans serif 
+    are both backups. */
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
