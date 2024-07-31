@@ -1,0 +1,16 @@
+.click-me {
+    background-color: black;
+    color: white;
+}
+
+.dont-click {
+    background-color: rgb(199, 19, 19);
+    text-align: center;
+    align-items: end;
+    
+}
+
+.adjust-font-size-family {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
