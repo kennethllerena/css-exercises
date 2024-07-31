@@ -10,7 +10,8 @@
     
 }
 
-.adjust-font-size-family {
+.click-me,
+.dont-click{
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
